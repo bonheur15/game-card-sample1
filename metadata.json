@@ -1,0 +1,5 @@
+{
+  "name": "Card Battle",
+  "description": "A smooth card playing game against a bot with drag and drop mechanics.",
+  "requestFramePermissions": []
+}
